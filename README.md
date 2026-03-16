@@ -1,6 +1,6 @@
 Run Notebook in Colab
 
-https://colab.research.google.com/github/prachiupadhyay1211/tb-lung-visualization/blob/main/tb_visualization.ipynb
+https://colab.research.google.com/drive/1d3zjcqs5TFzrtQcVjkoFC0ekYQI41SL7?usp=sharing
 
 Dataset
 
